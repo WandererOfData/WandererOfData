@@ -28,9 +28,7 @@ End-to-end portfolio with 8 projects (Python, SQL, ML, Viz, A/B Testing).
 
 ---
 
-## 🛠 Skills
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels, Seaborn, Matplotlib  
+## Tools and concepts
 - **Concepts:** EDA, Hypothesis Testing, Predictive Modeling, A/B Testing, Explainable AI  
 - **Tools:** Jupyter, Google Colab, GitHub, Looker Studio  
 
