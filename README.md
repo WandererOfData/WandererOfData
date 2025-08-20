@@ -14,7 +14,7 @@ I'm focused on building **data-driven solutions** using:
 
 ## Featured Projects  
 
-🔹 [**Data Science Portfolio**](https://github.com/YOUR-USERNAME/data-science-portfolio)  
+🔹 [**Data Science Portfolio**](https://github.com/WandererOfData/data-science-portfolio)  
 End-to-end portfolio with 8 projects (Python, SQL, ML, Viz, A/B Testing).  
 
 - 📈 Python EDA (Netflix Data)  
